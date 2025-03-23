@@ -38,9 +38,6 @@
 
 
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SALEMMOHAMED22&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
 <a href="https://komarev.com/ghpvc/?username=SALEMMOHAMED22&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=SALEMMOHAMED22&style=for-the-badge">
 </a>
